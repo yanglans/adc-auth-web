@@ -1,0 +1,22 @@
+.impowerBox .qrcode {
+  width: 160px
+}
+.impowerBox .waiting .wrp_code {
+  margin-top: -10px !important
+}
+
+.impowerBox .title {
+  display: none;
+}
+
+.impowerBox .info {
+  width: 200px;
+}
+#wx_default_tip{
+  padding: 0 0 !important;
+}
+.impowerBox .status{
+  margin-top: 0 !important;
+  text-align: center;
+}
+
